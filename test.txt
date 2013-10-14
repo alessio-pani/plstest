@@ -1,3 +1,2 @@
 Adasfsdfsdefsdf
-NEW LINE!
-new 2
+Line 2
